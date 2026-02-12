@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "ecosystem": "Ecosystem Platform",
+    "saas": "SaaS/Apps",
+    "modernization": "Core Modernization",
+    "clients": "Clients & Partners",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Making Insurance Easy",
+    "subtitle": "Technology partner for global insurance industry digital transformation",
+    "ctaPrimary": "Learn More",
+    "ctaSecondary": "Contact Us"
+  },
+  "features": {
+    "title": "Insurance Middleware",
+    "subtitle": "eBaoCloud middleware platform for insurers, brokers, channels, and insurtech companies",
+    "item1": {
+      "title": "Omni-channel Product Launch",
+      "description": "Launch any insurance product on any distribution channel"
+    },
+    "item2": {
+      "title": "Policy Management Modernization",
+      "description": "Transform policy management systems with new technology and APIs"
+    },
+    "item3": {
+      "title": "Centralized Product Management",
+      "description": "Centralized platform for managing insurance products across channels"
+    }
+  },
+  "stats": {
+    "clients": "Insurance Companies",
+    "cases": "Global Success Cases",
+    "years": "Years Experience"
+  },
+  "testimonials": {
+    "title": "Clients & Users",
+    "subtitle": "Serving 300+ insurance companies and numerous ecosystem partners"
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "Stay updated with eBao",
+    "readMore": "View More"
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Join our events",
+    "readMore": "View More"
+  },
+  "footer": {
+    "copyright": "© 2026 eBaoTech Network Technology (Shanghai) Co., Ltd.",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

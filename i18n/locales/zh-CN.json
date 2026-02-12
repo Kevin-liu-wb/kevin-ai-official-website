@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "ecosystem": "保险生态平台",
+    "saas": "SaaS/应用",
+    "modernization": "核心系统现代化",
+    "clients": "客户及合作伙伴",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "让保险变得容易",
+    "subtitle": "全球保险行业在数字化转型中的技术伙伴",
+    "ctaPrimary": "了解更多",
+    "ctaSecondary": "联系我们"
+  },
+  "features": {
+    "title": "保险行业中台",
+    "subtitle": "易保云中台是为保险公司、保险经纪/代理公司、兼业渠道、保险科技公司和初创企业提供的保险中间件平台",
+    "item1": {
+      "title": "全渠道产品发布",
+      "description": "在任何分销渠道上推出任何保险产品"
+    },
+    "item2": {
+      "title": "保单管理现代化",
+      "description": "采用新技术、借助 API 的力量，实现保单管理系统转型"
+    },
+    "item3": {
+      "title": "产品集中管理",
+      "description": "为保险渠道提供一个集中化管理保险产品的平台"
+    }
+  },
+  "stats": {
+    "clients": "服务保险公司",
+    "cases": "全球成功案例",
+    "years": "年行业经验"
+  },
+  "testimonials": {
+    "title": "客户与用户",
+    "subtitle": "易保服务于 300 多家保险公司及众多保险代理、经纪公司及其它生态伙伴"
+  },
+  "news": {
+    "title": "新闻",
+    "subtitle": "了解易保最新动态",
+    "readMore": "查看更多"
+  },
+  "events": {
+    "title": "市场活动",
+    "subtitle": "参与我们的活动",
+    "readMore": "查看更多"
+  },
+  "footer": {
+    "copyright": "© 2026 易保网络技术（上海）有限公司",
+    "legal": "法律",
+    "privacy": "隐私政策",
+    "terms": "网站条款"
+  }
+}
