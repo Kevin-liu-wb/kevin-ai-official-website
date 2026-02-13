@@ -3,32 +3,33 @@
 import { motion } from 'framer-motion';
 
 const clients = [
-  { name: 'DCH', label: '大昌行集团', color: '#0A2540' },
-  { name: 'Manulife', label: '万通保险', color: '#FF6600' },
-  { name: 'Ping An', label: '平安保险', color: '#E60012' },
-  { name: 'China Life', label: '中国人寿', color: '#C41E3A' },
-  { name: 'CPIC', label: '太平洋保险', color: '#1D4ED8' },
-  { name: 'AIA', label: '友邦保险', color: '#00A0DF' },
-  { name: 'New China Life', label: '新华保险', color: '#7C3AED' },
-  { name: 'Taikang', label: '泰康保险', color: '#E91E63' },
+  { name: 'Shopify', color: '#95BF47' },
+  { name: 'Amazon', color: '#FF9900' },
+  { name: 'Google', color: '#4285F4' },
+  { name: 'Slack', color: '#4A154B' },
+  { name: 'Spotify', color: '#1DB954' },
+  { name: 'Microsoft', color: '#00A4EF' },
+  { name: 'Notion', color: '#000000' },
+  { name: 'Figma', color: '#F24E1E' },
 ];
 
 function CompanyLogo({ client }: { client: typeof clients[0] }) {
   return (
     <svg
-      width="100"
-      height="28"
-      viewBox="0 0 100 28"
+      width="120"
+      height="32"
+      viewBox="0 0 120 32"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className="h-7 w-auto transition-all duration-300 opacity-40 hover:opacity-100"
+      className="h-8 w-auto transition-all duration-300 opacity-40 hover:opacity-100"
     >
       <text
-        x="0"
+        x="60"
         y="22"
+        textAnchor="middle"
         fill={client.color}
-        fontSize="18"
-        fontWeight="600"
+        fontSize="16"
+        fontWeight="700"
         fontFamily="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
       >
         {client.name}
@@ -48,7 +49,7 @@ export function LogoWall() {
       
       {/* Scrolling Container */}
       <motion.div
-        className="flex gap-12 items-center"
+        className="flex gap-16 items-center"
         animate={{
           x: [0, -50 * clients.length * 1.5],
         }}
