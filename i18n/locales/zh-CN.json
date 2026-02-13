@@ -1,7 +1,6 @@
 {
   "nav": {
     "ecosystem": "保险生态平台",
-    "saas": "SaaS/应用",
     "modernization": "核心系统现代化",
     "clients": "客户及合作伙伴",
     "about": "关于我们",
@@ -53,5 +52,102 @@
     "legal": "法律",
     "privacy": "隐私政策",
     "terms": "网站条款"
+  },
+  "ecosystem": {
+    "autoshop": {
+      "title": "车商云",
+      "subtitle": "为汽车经销商集团提供的保险业务管理平台",
+      "description": "通过3个月时间、近20场远程培训，为汽车经销商集团近90家店面、逾400名一线员工提供详尽的操作培训和指导"
+    },
+    "mobileAdvisor": {
+      "title": "移动顾问",
+      "subtitle": "代理人移动展业工具",
+      "description": "支持全流程线上化，为代理人业务拓展提供丰富的移动展业工具"
+    },
+    "distribution": {
+      "title": "泰国保险分销云",
+      "subtitle": "泰国市场保险分销解决方案",
+      "description": "专为泰国市场设计的保险分销平台，支持多渠道保险产品管理和分发"
+    }
+  },
+  "modernization": {
+    "sampleApps": {
+      "title": "样例应用和源代码库",
+      "subtitle": "帮助保险公司快速实现核心系统的现代化升级",
+      "description": "提供样例应用、源代码库和框架，帮助保险公司快速实现核心系统的现代化升级"
+    },
+    "geminiFramework": {
+      "title": "寿险应用开放框架",
+      "subtitle": "基于云中台的寿险核心系统开放框架",
+      "description": "支持产品工厂、保单管理、理赔等全流程，帮助寿险公司快速构建数字化核心系统"
+    }
+  },
+  "clients": {
+    "insurers": {
+      "title": "保险公司",
+      "subtitle": "服务全球300多家保险公司",
+      "description": "从灵活的初创企业到保费收入400多亿的保险公司，易保云中台已有300多个全球成功案例"
+    },
+    "channels": {
+      "title": "渠道及金融创新公司",
+      "subtitle": "赋能保险分销渠道",
+      "description": "为银行、支付、移动出行、经纪人和代理人、电信、旅行/酒店业等垂直行业提供保险技术支持"
+    },
+    "partners": {
+      "title": "合作伙伴",
+      "subtitle": "共建保险科技生态",
+      "description": "与全球领先的技术公司、咨询公司、系统集成商建立战略合作关系"
+    }
+  },
+  "about": {
+    "company": {
+      "title": "公司简介",
+      "subtitle": "秉承让保险变得容易的公司使命",
+      "description": "易保为保险行业提供数字化解决方案，从核心系统到前端应用，全面赋能保险数字化转型"
+    },
+    "resources": {
+      "title": "资源中心",
+      "subtitle": "获取最新的产品资料和行业洞察",
+      "description": "下载产品宣传册、技术白皮书、行业报告等资源"
+    },
+    "caseStudies": {
+      "title": "成功案例",
+      "subtitle": "了解我们如何帮助客户成功",
+      "description": "探索易保如何帮助保险公司、经纪公司和渠道伙伴实现数字化转型"
+    },
+    "news": {
+      "title": "新闻动态",
+      "subtitle": "了解易保最新动态",
+      "description": "获取公司新闻、产品发布、行业活动等信息"
+    },
+    "events": {
+      "title": "市场活动",
+      "subtitle": "参与我们的活动",
+      "description": "参加行业会议、网络研讨会、产品发布会等活动"
+    },
+    "careers": {
+      "title": "工作机会",
+      "subtitle": "加入易保，共创未来",
+      "description": "我们正在寻找优秀的人才，一起改变保险行业"
+    }
+  },
+  "contact": {
+    "enquiry": {
+      "title": "让易保联系您",
+      "subtitle": "填写表单，我们的专家团队将尽快与您联系",
+      "description": "无论您是想了解我们的产品，还是需要技术支持，我们都随时准备为您提供帮助"
+    }
+  },
+  "legal": {
+    "title": "法律条款",
+    "lastUpdated": "最后更新"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新"
+  },
+  "terms": {
+    "title": "网站条款",
+    "lastUpdated": "最后更新"
   }
 }

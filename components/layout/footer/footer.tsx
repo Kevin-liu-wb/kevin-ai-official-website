@@ -10,23 +10,25 @@ export function Footer({ lang, t }: FooterProps) {
     {
       title: lang === 'zh-CN' ? '产品' : 'Products',
       links: [
-        { label: lang === 'zh-CN' ? '保险生态平台' : 'Ecosystem Platform', href: `/${lang}/ecosystem-platform` },
-        { label: lang === 'zh-CN' ? 'SaaS应用' : 'SaaS Apps', href: `/${lang}/saas` },
-        { label: lang === 'zh-CN' ? '核心系统现代化' : 'Core Modernization', href: `/${lang}/core-modernization` },
+        { label: lang === 'zh-CN' ? '保险生态平台' : 'Ecosystem Platform', href: `/${lang}/ecosystem-platform/` },
+        { label: lang === 'zh-CN' ? '核心系统现代化' : 'Core Modernization', href: `/${lang}/core-modernization/` },
+        { label: lang === 'zh-CN' ? '客户及合作伙伴' : 'Clients & Partners', href: `/${lang}/clients/` },
       ]
     },
     {
       title: lang === 'zh-CN' ? '公司' : 'Company',
       links: [
-        { label: lang === 'zh-CN' ? '关于我们' : 'About Us', href: `/${lang}/about` },
-        { label: lang === 'zh-CN' ? '联系我们' : 'Contact', href: `/${lang}/contact` },
+        { label: lang === 'zh-CN' ? '关于我们' : 'About Us', href: `/${lang}/about/company/` },
+        { label: lang === 'zh-CN' ? '工作机会' : 'Careers', href: `/${lang}/about/careers/` },
+        { label: lang === 'zh-CN' ? '联系我们' : 'Contact', href: `/${lang}/contact/` },
       ]
     },
     {
       title: lang === 'zh-CN' ? '资源' : 'Resources',
       links: [
-        { label: lang === 'zh-CN' ? '新闻' : 'News', href: `/${lang}/news` },
-        { label: lang === 'zh-CN' ? '活动' : 'Events', href: `/${lang}/events` },
+        { label: lang === 'zh-CN' ? '资源中心' : 'Resources', href: `/${lang}/about/resources/` },
+        { label: lang === 'zh-CN' ? '新闻' : 'News', href: `/${lang}/about/news/` },
+        { label: lang === 'zh-CN' ? '活动' : 'Events', href: `/${lang}/about/events/` },
       ]
     }
   ];
@@ -73,13 +75,13 @@ export function Footer({ lang, t }: FooterProps) {
         <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">{t.footer.copyright}</p>
           <div className="flex gap-6 text-sm">
-            <Link href={`/${lang}/legal`} className="text-gray-400 hover:text-white transition-colors">
+            <Link href={`/${lang}/legal/`} className="text-gray-400 hover:text-white transition-colors">
               {t.footer.legal}
             </Link>
-            <Link href={`/${lang}/privacy`} className="text-gray-400 hover:text-white transition-colors">
+            <Link href={`/${lang}/privacy/`} className="text-gray-400 hover:text-white transition-colors">
               {t.footer.privacy}
             </Link>
-            <Link href={`/${lang}/terms`} className="text-gray-400 hover:text-white transition-colors">
+            <Link href={`/${lang}/terms/`} className="text-gray-400 hover:text-white transition-colors">
               {t.footer.terms}
             </Link>
           </div>

@@ -1,0 +1,240 @@
+
+> ebaocloud-official@0.1.0 dev
+> next dev --hostname 0.0.0.0
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+  - Experiments (use with caution):
+    · webpackBuildWorker
+
+ ✓ Starting...
+ ✓ Ready in 5.3s
+ ○ Compiling /[lng]/ecosystem-platform/autoshop ...
+ ✓ Compiled /[lng]/ecosystem-platform/autoshop in 9s (1169 modules)
+ ✓ Compiled in 466ms (589 modules)
+ GET /zh-CN/ecosystem-platform/autoshop/ 200 in 105ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 810ms (796 modules)
+ GET /zh-CN/ecosystem-platform/mobile-advisor/ 404 in 1023ms
+ ○ Compiling /[lng] ...
+ ✓ Compiled /[lng] in 1043ms (1210 modules)
+ GET /zh-CN/ 200 in 2504ms
+ ○ Compiling /[lng]/contact ...
+ ✓ Compiled /[lng]/contact in 652ms (1227 modules)
+ GET /zh-CN/core-modernization/sample-apps/ 404 in 51ms
+ GET /zh-CN/contact/ 200 in 285ms
+ ✓ Compiled /[lng]/core-modernization/gemini-framework in 502ms (1239 modules)
+ GET /zh-CN/core-modernization/sample-apps/ 404 in 59ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 156ms
+ GET /zh-CN/ecosystem-platform/mobile-advisor/ 404 in 35ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 131ms
+ GET /zh-CN/ecosystem-platform/distribution/ 404 in 31ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 113ms
+ ○ Compiling /[lng]/ecosystem-platform/autoshop ...
+ ✓ Compiled /[lng]/ecosystem-platform/autoshop in 543ms (639 modules)
+ GET /zh-CN/saas/back-office/ 404 in 88ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 193ms
+ GET /zh-CN/saas/front-office/ 404 in 31ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 122ms
+ GET /zh-CN/saas/insuremo-iso/ 404 in 33ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 288ms
+ ✓ Compiled in 3.4s (617 modules)
+ ✓ Compiled in 677ms (617 modules)
+ ✓ Compiled in 577ms (617 modules)
+ ✓ Compiled in 260ms (617 modules)
+ ✓ Compiled in 281ms (617 modules)
+ ✓ Compiled in 372ms (617 modules)
+ ✓ Compiled in 764ms (617 modules)
+ ✓ Compiled in 639ms (617 modules)
+ ✓ Compiled in 525ms (615 modules)
+ ✓ Compiled in 440ms (615 modules)
+ ✓ Compiled in 360ms (615 modules)
+ ✓ Compiled in 492ms (615 modules)
+ ✓ Compiled in 448ms (615 modules)
+ ✓ Compiled in 249ms (615 modules)
+ ✓ Compiled in 609ms (615 modules)
+ ✓ Compiled in 431ms (615 modules)
+ ✓ Compiled in 319ms (615 modules)
+ ✓ Compiled in 570ms (615 modules)
+ ✓ Compiled in 288ms (615 modules)
+ ✓ Compiled in 434ms (615 modules)
+ ✓ Compiled in 263ms (615 modules)
+ ✓ Compiled in 587ms (615 modules)
+ ✓ Compiled in 322ms (615 modules)
+ ✓ Compiled in 483ms (615 modules)
+ ✓ Compiled in 396ms (615 modules)
+ ✓ Compiled in 622ms (615 modules)
+ ✓ Compiled in 310ms (615 modules)
+ ✓ Compiled in 516ms (615 modules)
+ ✓ Compiled in 457ms (615 modules)
+ ✓ Compiled in 440ms (615 modules)
+ ✓ Compiled in 367ms (615 modules)
+ ✓ Compiled in 612ms (615 modules)
+ ✓ Compiled in 262ms (615 modules)
+ ✓ Compiled in 424ms (615 modules)
+ ✓ Compiled in 339ms (615 modules)
+ ✓ Compiled in 416ms (615 modules)
+ ✓ Compiled in 411ms (615 modules)
+ ✓ Compiled in 432ms (615 modules)
+ ✓ Compiled in 290ms (615 modules)
+ ✓ Compiled in 529ms (615 modules)
+ ✓ Compiled in 308ms (615 modules)
+ ✓ Compiled in 429ms (615 modules)
+ ✓ Compiled in 346ms (615 modules)
+ GET /zh-CN/ 200 in 190ms
+ ○ Compiling /[lng]/ecosystem-platform ...
+ ✓ Compiled /[lng]/ecosystem-platform in 1302ms (1241 modules)
+ GET /zh-CN/ecosystem-platform/ 200 in 2273ms
+ ✓ Compiled /[lng]/ecosystem-platform/autoshop in 312ms (643 modules)
+ GET /zh-CN/ecosystem-platform/autoshop/ 200 in 733ms
+ ○ Compiling /[lng]/ecosystem-platform/mobile-advisor ...
+ ✓ Compiled /[lng]/ecosystem-platform/mobile-advisor in 852ms (1246 modules)
+ GET /zh-CN/ecosystem-platform/mobile-advisor/ 200 in 1610ms
+ ○ Compiling /[lng]/ecosystem-platform/distribution ...
+ ✓ Compiled /[lng]/ecosystem-platform/distribution in 631ms (1248 modules)
+ GET /zh-CN/ecosystem-platform/distribution/ 200 in 1415ms
+ ○ Compiling /[lng]/saas ...
+ ✓ Compiled /[lng]/saas in 662ms (1250 modules)
+ GET /zh-CN/saas/ 200 in 1445ms
+ ○ Compiling /[lng]/saas/back-office ...
+ ✓ Compiled /[lng]/saas/back-office in 713ms (1252 modules)
+ GET /zh-CN/saas/back-office/ 200 in 1766ms
+ ○ Compiling /[lng]/saas/front-office ...
+ ✓ Compiled /[lng]/saas/front-office in 547ms (1254 modules)
+ GET /zh-CN/saas/front-office/ 200 in 1286ms
+ ○ Compiling /[lng]/saas/external ...
+ ✓ Compiled /[lng]/saas/external in 790ms (1256 modules)
+ GET /zh-CN/saas/external/ 200 in 1731ms
+ ○ Compiling /[lng]/saas/insuremo-iso ...
+ ✓ Compiled /[lng]/saas/insuremo-iso in 721ms (1258 modules)
+ GET /zh-CN/saas/insuremo-iso/ 200 in 1787ms
+ ○ Compiling /[lng]/saas/mytrucksure ...
+ ✓ Compiled /[lng]/saas/mytrucksure in 724ms (1260 modules)
+ GET /zh-CN/saas/mytrucksure/ 200 in 1482ms
+ ○ Compiling /[lng]/core-modernization ...
+ ✓ Compiled /[lng]/core-modernization in 1191ms (1265 modules)
+ GET /zh-CN/core-modernization/ 200 in 1980ms
+ ○ Compiling /[lng]/core-modernization/sample-apps ...
+ ✓ Compiled /[lng]/core-modernization/sample-apps in 771ms (1267 modules)
+ GET /zh-CN/core-modernization/sample-apps/ 200 in 1544ms
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 127ms
+ ○ Compiling /[lng]/clients ...
+ ✓ Compiled /[lng]/clients in 783ms (1269 modules)
+ GET /zh-CN/clients/ 200 in 1550ms
+ ○ Compiling /[lng]/clients/insurers ...
+ ✓ Compiled /[lng]/clients/insurers in 831ms (1271 modules)
+ GET /zh-CN/clients/insurers/ 200 in 1564ms
+ ○ Compiling /[lng]/clients/channels ...
+ ✓ Compiled /[lng]/clients/channels in 755ms (1273 modules)
+ GET /zh-CN/clients/channels/ 200 in 1525ms
+ ○ Compiling /[lng]/clients/partners ...
+ ✓ Compiled /[lng]/clients/partners in 712ms (1275 modules)
+ GET /zh-CN/clients/partners/ 200 in 1779ms
+ ○ Compiling /[lng]/about ...
+ ✓ Compiled /[lng]/about in 860ms (1278 modules)
+ GET /zh-CN/about/ 200 in 1636ms
+ ○ Compiling /[lng]/about/company ...
+ ✓ Compiled /[lng]/about/company in 875ms (1280 modules)
+ GET /zh-CN/about/company/ 200 in 1652ms
+ ○ Compiling /[lng]/about/resources ...
+ ✓ Compiled /[lng]/about/resources in 1039ms (1282 modules)
+ GET /zh-CN/about/resources/ 200 in 2023ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1784ms (1285 modules)
+ GET /zh-CN/about/news/ 404 in 1970ms
+ ○ Compiling /[lng]/about/news/[slug] ...
+ ✓ Compiled /[lng]/about/news/[slug] in 863ms (1287 modules)
+ ⨯ Error: Page "/[lng]/about/news/[slug]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:1079:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async DevServer.renderPageComponent (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:818:17)
+    at async C:\workfolder\ebaocloud-official\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\workfolder\ebaocloud-official\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\lib\router-server.js:179:21)
+    at async handleRequest (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\lib\router-server.js:359:24)
+    at async requestHandlerImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\lib\router-server.js:383:13)
+    at async Server.requestListener (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\lib\start-server.js:141:13) {
+  page: '/zh-CN/about/news/sample-slug'
+}
+ ○ Compiling /_error ...
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\System Volume Information'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ ✓ Compiled /_error in 2.7s (1514 modules)
+ GET /zh-CN/about/news/sample-slug/ 500 in 4727ms
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\System Volume Information'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ ○ Compiling /[lng]/about/csr ...
+ ✓ Compiled /[lng]/about/csr in 1045ms (1516 modules)
+ GET /zh-CN/about/csr/ 200 in 1930ms
+ ○ Compiling /[lng]/about/careers ...
+ ✓ Compiled /[lng]/about/careers in 916ms (1518 modules)
+ GET /zh-CN/about/careers/ 200 in 1772ms
+ ○ Compiling /[lng]/about/events ...
+ ✓ Compiled /[lng]/about/events in 1042ms (1520 modules)
+ GET /zh-CN/about/events/ 200 in 2007ms
+ ○ Compiling /[lng]/about/case-studies ...
+ ✓ Compiled /[lng]/about/case-studies in 1010ms (1522 modules)
+ GET /zh-CN/about/case-studies/ 200 in 1823ms
+ GET /zh-CN/contact/ 200 in 86ms
+ ○ Compiling /[lng]/contact/enquiry ...
+ ✓ Compiled /[lng]/contact/enquiry in 1149ms (1524 modules)
+ GET /zh-CN/contact/enquiry/ 200 in 1947ms
+ ○ Compiling /[lng]/legal ...
+ ✓ Compiled /[lng]/legal in 1109ms (1526 modules)
+ GET /zh-CN/legal/ 200 in 1933ms
+ ○ Compiling /[lng]/privacy ...
+ ✓ Compiled /[lng]/privacy in 1062ms (1528 modules)
+ GET /zh-CN/privacy/ 200 in 1839ms
+ ○ Compiling /[lng]/terms ...
+ ✓ Compiled /[lng]/terms in 1016ms (1530 modules)
+ GET /zh-CN/terms/ 200 in 1785ms
+ GET /zh-CN/favicon.ico 404 in 34ms
+ GET /en/ 200 in 155ms
+ GET /en/ecosystem-platform/ 200 in 81ms
+ GET /en/ecosystem-platform/autoshop/ 200 in 232ms
+ GET /en/ecosystem-platform/mobile-advisor/ 200 in 91ms
+ GET /en/ecosystem-platform/distribution/ 200 in 87ms
+ GET /en/saas/ 200 in 84ms
+ GET /en/saas/back-office/ 200 in 140ms
+ GET /en/saas/front-office/ 200 in 86ms
+ GET /en/saas/external/ 200 in 75ms
+ GET /en/saas/insuremo-iso/ 200 in 86ms
+ GET /en/saas/mytrucksure/ 200 in 96ms
+ GET /en/core-modernization/ 200 in 90ms
+ GET /en/core-modernization/sample-apps/ 200 in 102ms
+ GET /en/core-modernization/gemini-framework/ 200 in 102ms
+ GET /en/clients/ 200 in 94ms
+ GET /en/clients/insurers/ 200 in 82ms
+ GET /en/clients/channels/ 200 in 82ms
+ GET /en/clients/partners/ 200 in 76ms
+ GET /en/about/ 200 in 76ms
+ GET /en/about/company/ 200 in 76ms
+ GET /en/about/resources/ 200 in 65ms
+ GET /en/about/news/ 404 in 23ms
+ ⨯ Error: Page "/[lng]/about/news/[slug]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\workfolder\ebaocloud-official\node_modules\next\dist\server\base-server.js:1079:27) {
+  page: '/en/about/news/sample-slug'
+}
+ GET /en/about/news/sample-slug/ 500 in 127ms
+ GET /en/about/csr/ 200 in 85ms
+ GET /en/about/careers/ 200 in 71ms
+ GET /en/about/events/ 200 in 79ms
+ GET /en/about/case-studies/ 200 in 70ms
+ GET /en/contact/ 200 in 249ms
+ GET /en/contact/enquiry/ 200 in 86ms
+ GET /en/legal/ 200 in 79ms
+ GET /en/privacy/ 200 in 81ms
+ GET /en/terms/ 200 in 68ms
+ GET /en/favicon.ico 404 in 36ms
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ GET /zh-CN/core-modernization/gemini-framework/ 200 in 108ms
+^C

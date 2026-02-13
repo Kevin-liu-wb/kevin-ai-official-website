@@ -58,16 +58,61 @@ npm run build
 
 构建完成后，打开 `dist/index.html` 查看结果。
 
-## 📄 页面列表
+## 📄 页面列表 (35个页面 × 2语言 = 70个页面)
 
+### 首页
 - ✅ 首页 (/)
-- ✅ 保险生态平台 (/ecosystem-platform)
-- ✅ SaaS应用 (/saas)
-- ✅ 核心系统现代化 (/core-modernization)
-- ✅ 关于我们 (/about)
-- ✅ 联系我们 (/contact)
 
-所有页面均支持中英文切换。
+### 保险生态平台 (/ecosystem-platform)
+- ✅ 保险生态平台主页 - 保险产品、连接
+- ✅ 车商云 (/ecosystem-platform/autoshop)
+- ✅ 移动顾问 (/ecosystem-platform/mobile-advisor)
+- ✅ 泰国保险分销云 (/ecosystem-platform/distribution)
+
+### SaaS/应用 (/saas)
+- ✅ SaaS/应用主页
+- ✅ 后台用户应用 (/saas/back-office)
+- ✅ 前端用户应用 (/saas/front-office)
+- ✅ 外部用户应用 (/saas/external)
+- ✅ InsureMO ISO Middle Office (/saas/insuremo-iso)
+- ✅ MyTruckSure SaaS (/saas/mytrucksure)
+
+### 核心系统现代化 (/core-modernization)
+- ✅ 核心系统现代化主页 - 应用资产、连接
+- ✅ 样例应用和源代码库 (/core-modernization/sample-apps)
+- ✅ 寿险应用开放框架 (/core-modernization/gemini-framework)
+
+### 客户及合作伙伴 (/clients)
+- ✅ 客户及合作伙伴主页
+- ✅ 保险公司 (/clients/insurers)
+- ✅ 渠道及金融创新公司 (/clients/channels)
+- ✅ 合作伙伴 (/clients/partners)
+
+### 关于我们 (/about)
+- ✅ 关于我们主页
+- ✅ 公司简介 (/about/company)
+- ✅ 资源中心 (/about/resources)
+  - 宣传册
+  - 成功案例 (/about/case-studies)
+- ✅ 新闻与活动
+  - 新闻列表 (/about/news)
+  - 新闻详情 (/about/news/[slug])
+  - 市场活动 (/about/events)
+  - 易保相关报道
+- ✅ 企业社会责任 (/about/csr)
+- ✅ 工作机会 (/about/careers)
+
+### 联系我们 (/contact)
+- ✅ 联系我们主页
+- ✅ 办公室 (/contact)
+- ✅ 让易保联系您 (/contact/enquiry)
+
+### 法律页面
+- ✅ 法律条款 (/legal)
+- ✅ 隐私政策 (/privacy)
+- ✅ 网站条款 (/terms)
+
+**所有页面均支持中英文双语切换**
 
 ## 🎯 核心功能
 

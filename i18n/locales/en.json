@@ -1,7 +1,6 @@
 {
   "nav": {
     "ecosystem": "Ecosystem Platform",
-    "saas": "SaaS/Apps",
     "modernization": "Core Modernization",
     "clients": "Clients & Partners",
     "about": "About Us",
@@ -53,5 +52,102 @@
     "legal": "Legal",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use"
+  },
+  "ecosystem": {
+    "autoshop": {
+      "title": "Auto Dealer Cloud",
+      "subtitle": "Insurance business management platform for auto dealer groups",
+      "description": "Through 3 months and nearly 20 remote training sessions, providing detailed operation training and guidance for nearly 90 stores and over 400 frontline employees of auto dealer groups"
+    },
+    "mobileAdvisor": {
+      "title": "Mobile Advisor",
+      "subtitle": "Mobile sales tool for insurance agents",
+      "description": "Supporting full digital process, providing rich mobile sales tools for agent business development"
+    },
+    "distribution": {
+      "title": "Thailand Distribution Cloud",
+      "subtitle": "Insurance distribution solution for Thailand market",
+      "description": "Insurance distribution platform specifically designed for Thailand market, supporting multi-channel insurance product management and distribution"
+    }
+  },
+  "modernization": {
+    "sampleApps": {
+      "title": "Sample Apps & Source Code Library",
+      "subtitle": "Help insurers rapidly modernize core systems",
+      "description": "Providing sample applications, source code libraries and frameworks to help insurance companies quickly modernize their core systems"
+    },
+    "geminiFramework": {
+      "title": "Life Insurance Open Framework",
+      "subtitle": "Life insurance core system framework based on cloud middleware",
+      "description": "Supporting product factory, policy management, claims and other full processes, helping life insurance companies quickly build digital core systems"
+    }
+  },
+  "clients": {
+    "insurers": {
+      "title": "Insurance Companies",
+      "subtitle": "Serving 300+ insurance companies globally",
+      "description": "From agile startups to insurers with 40B+ premium, we have 300+ global success cases"
+    },
+    "channels": {
+      "title": "Channels & FinTech",
+      "subtitle": "Empowering insurance distribution channels",
+      "description": "Providing insurance technology support for banking, payments, mobility, brokers and agents, telecommunications, travel/hospitality and other vertical industries"
+    },
+    "partners": {
+      "title": "Partners",
+      "subtitle": "Building insurtech ecosystem together",
+      "description": "Establishing strategic partnerships with leading technology companies, consulting firms, and system integrators worldwide"
+    }
+  },
+  "about": {
+    "company": {
+      "title": "Company Overview",
+      "subtitle": "With the mission of Making Insurance Easy",
+      "description": "eBao provides digital solutions for the insurance industry, from core systems to front-end applications, fully empowering insurance digital transformation"
+    },
+    "resources": {
+      "title": "Resources",
+      "subtitle": "Get the latest product materials and industry insights",
+      "description": "Download product brochures, technical whitepapers, industry reports and other resources"
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "subtitle": "Learn how we help clients succeed",
+      "description": "Explore how eBao helps insurance companies, brokerages and channel partners achieve digital transformation"
+    },
+    "news": {
+      "title": "News",
+      "subtitle": "Stay updated with eBao",
+      "description": "Get company news, product releases, industry events and other information"
+    },
+    "events": {
+      "title": "Events",
+      "subtitle": "Join our events",
+      "description": "Participate in industry conferences, webinars, product launches and other events"
+    },
+    "careers": {
+      "title": "Careers",
+      "subtitle": "Join eBao and shape the future",
+      "description": "We are looking for talented people to change the insurance industry together"
+    }
+  },
+  "contact": {
+    "enquiry": {
+      "title": "Let eBao Contact You",
+      "subtitle": "Fill out the form and our expert team will contact you soon",
+      "description": "Whether you want to learn about our products or need technical support, we are always ready to help"
+    }
+  },
+  "legal": {
+    "title": "Legal Terms",
+    "lastUpdated": "Last Updated"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last Updated"
   }
 }
