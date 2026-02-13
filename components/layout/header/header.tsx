@@ -53,37 +53,6 @@ export function Header({ lang, t }: HeaderProps) {
       ]
     },
     {
-      label: isZh ? 'SaaS/应用' : 'SaaS/Apps',
-      href: `/${lang}/saas/`,
-      hasDropdown: true,
-      dropdownItems: [
-        { 
-          title: isZh ? '核心系统现代化开放框架' : 'Core Modernization Framework',
-          href: `/${lang}/core-modernization/`,
-          subItems: [
-            { label: isZh ? '寿险应用开放框架' : 'Life Insurance Framework', href: `/${lang}/core-modernization/gemini-framework/` },
-            { label: isZh ? '产险应用开放框架' : 'General Insurance Framework', href: `/${lang}/core-modernization/sample-apps/` },
-          ]
-        },
-        { 
-          title: isZh ? '后台用户应用' : 'Back-office Apps', 
-          href: `/${lang}/saas/back-office/` 
-        },
-        { 
-          title: isZh ? '前端用户应用' : 'Front-office Apps', 
-          href: `/${lang}/saas/front-office/` 
-        },
-        { 
-          title: isZh ? '外部用户应用' : 'External User Apps',
-          href: `/${lang}/saas/external/`,
-          subItems: [
-            { label: 'InsureMO ISO Middle Office', href: `/${lang}/saas/insuremo-iso/` },
-            { label: 'MyTruckSure SaaS', href: `/${lang}/saas/mytrucksure/` },
-          ]
-        },
-      ]
-    },
-    {
       label: isZh ? '核心系统现代化' : 'Core Modernization',
       href: `/${lang}/core-modernization/`,
       hasDropdown: true,
@@ -268,6 +237,13 @@ export function Header({ lang, t }: HeaderProps) {
 
           {/* Right Section - 靠右 */}
           <div className="hidden lg:flex items-center gap-3 ml-auto">
+            {/* Contact Button - Stripe Style */}
+            <Link
+              href={`/${lang}/contact/`}
+              className="px-4 py-2 bg-stripe-purple text-white font-medium rounded-lg hover:bg-stripe-purple/90 transition-colors text-sm"
+            >
+              {isZh ? '联系我们' : 'Contact Sales'}
+            </Link>
             {/* Language Switcher */}
             <button
               onClick={toggleLang}
