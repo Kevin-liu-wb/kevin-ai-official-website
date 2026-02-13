@@ -138,6 +138,36 @@
       "description": "无论您是想了解我们的产品，还是需要技术支持，我们都随时准备为您提供帮助"
     }
   },
+  "saas": {
+    "title": "SaaS 应用",
+    "subtitle": "面向各类保险业务场景的云端应用",
+    "description": "易保提供完整的SaaS应用套件，覆盖保险业务全流程，帮助保险公司快速实现数字化转型",
+    "backOffice": {
+      "title": "后台用户应用",
+      "subtitle": "专业的保险业务管理后台",
+      "description": "为保险公司后台管理人员提供完整的保单管理、承保管理、理赔管理等业务功能"
+    },
+    "frontOffice": {
+      "title": "前台用户应用",
+      "subtitle": "面向客户的保险服务平台",
+      "description": "为保险客户提供在线投保、保单查询、理赔申请等自助服务"
+    },
+    "external": {
+      "title": "外部用户应用",
+      "subtitle": "合作伙伴和渠道管理系统",
+      "description": "为保险中介、经纪人、渠道合作伙伴提供业务管理系统"
+    },
+    "insuremoIso": {
+      "title": "InsureMO ISO 中台",
+      "subtitle": "保险中间件平台",
+      "description": "连接保险公司与各类分销渠道的中间件平台，提供标准化的API接口"
+    },
+    "mytrucksure": {
+      "title": "MyTruckSure SaaS",
+      "subtitle": "商用车保险解决方案",
+      "description": "专为商用车队设计的保险管理平台，支持车队保险、司机管理等"
+    }
+  },
   "legal": {
     "title": "法律条款",
     "lastUpdated": "最后更新"

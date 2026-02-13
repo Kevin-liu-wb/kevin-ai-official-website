@@ -138,6 +138,36 @@
       "description": "Whether you want to learn about our products or need technical support, we are always ready to help"
     }
   },
+  "saas": {
+    "title": "SaaS Applications",
+    "subtitle": "Cloud applications for various insurance business scenarios",
+    "description": "eBao provides a complete SaaS application suite covering the entire insurance business process, helping insurance companies quickly achieve digital transformation",
+    "backOffice": {
+      "title": "Back Office Application",
+      "subtitle": "Professional insurance business management backend",
+      "description": "Providing insurance company backend managers with complete business functions including policy management, underwriting management, and claims management"
+    },
+    "frontOffice": {
+      "title": "Front Office Application",
+      "subtitle": "Customer-facing insurance service platform",
+      "description": "Providing customers with self-service functions such as online policy purchase, policy inquiry, and claims application"
+    },
+    "external": {
+      "title": "External User Application",
+      "subtitle": "Partner and channel management system",
+      "description": "Business management system for insurance agents, brokers, and channel partners"
+    },
+    "insuremoIso": {
+      "title": "InsureMO ISO Middle Office",
+      "subtitle": "Insurance middleware platform",
+      "description": "Middleware platform connecting insurers with various distribution channels, providing standardized API interfaces"
+    },
+    "mytrucksure": {
+      "title": "MyTruckSure SaaS",
+      "subtitle": "Commercial vehicle insurance solution",
+      "description": "Insurance management platform designed specifically for commercial vehicle fleets, supporting fleet insurance and driver management"
+    }
+  },
   "legal": {
     "title": "Legal Terms",
     "lastUpdated": "Last Updated"
