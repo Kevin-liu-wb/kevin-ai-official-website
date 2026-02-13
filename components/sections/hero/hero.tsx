@@ -32,7 +32,7 @@ export function Hero({ lang, t }: HeroProps) {
       </div>
 
       {/* Main Content */}
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 lg:pt-24 pb-8">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 lg:pt-40 pb-16">
         <div className="max-w-4xl">
           {/* Main Headline */}
           <motion.h1
@@ -113,16 +113,9 @@ export function Hero({ lang, t }: HeroProps) {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.6, duration: 0.8 }}
-        className="relative z-10 mt-4"
+        className="relative z-10"
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Purple Badge - Moved here */}
-          <div className="text-center mb-4">
-            <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#635BFF]/10 text-sm text-[#635BFF] font-medium">
-              <span className="w-2 h-2 rounded-full bg-[#635BFF]" />
-              {isZh ? '全球 300+ 保险公司信赖之选' : 'Trusted by 300+ Global Insurers'}
-            </span>
-          </div>
           <div className="bg-[#F6F9FC] rounded-2xl py-6 px-4 sm:px-8">
             <LogoWall />
           </div>
