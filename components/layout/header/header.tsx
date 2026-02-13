@@ -122,21 +122,6 @@ export function Header({ lang, t }: HeaderProps) {
         },
       ]
     },
-    {
-      label: isZh ? '联系我们' : 'Contact Us',
-      href: `/${lang}/contact/`,
-      hasDropdown: true,
-      dropdownItems: [
-        { 
-          title: isZh ? '办公室' : 'Offices', 
-          href: `/${lang}/contact/` 
-        },
-        { 
-          title: isZh ? '让易保联系您' : 'Let Us Contact You', 
-          href: `/${lang}/contact/enquiry/` 
-        },
-      ]
-    },
   ];
 
   const toggleLang = () => {
@@ -242,7 +227,7 @@ export function Header({ lang, t }: HeaderProps) {
               href={`/${lang}/contact/`}
               className="px-4 py-2 bg-stripe-purple text-white font-medium rounded-lg hover:bg-stripe-purple/90 transition-colors text-sm"
             >
-              {isZh ? '联系我们' : 'Contact Sales'}
+              {isZh ? '联系我们' : 'Contact Us'}
             </Link>
             {/* Language Switcher */}
             <button
